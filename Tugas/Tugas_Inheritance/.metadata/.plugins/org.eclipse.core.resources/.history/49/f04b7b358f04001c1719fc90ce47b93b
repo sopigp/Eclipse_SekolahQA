@@ -1,0 +1,43 @@
+package Sekolah_QA.com;
+
+public class ikan extends Animal {
+	
+	public void introduce1()
+	{
+		System.out.println("Hello Fish! How are you?");
+	}
+
+	@Override
+	public void animal_sound()
+	{
+		System.out.println("The fish says : Blub..blub..Blub");
+	}
+	
+	public void introduce2()
+	{
+		System.out.println("Can you tell me, How do you move?");
+	}
+	
+	@Override
+	public void move()
+	{
+	}
+	
+	public void introduce3()
+	{
+		System.out.println("That's cool! so where do you live?");
+	}
+	
+	@Override
+	public void live_in()
+	{
+	}
+	
+	@Override
+	public void breed()
+	{
+	}
+	
+	
+	
+}

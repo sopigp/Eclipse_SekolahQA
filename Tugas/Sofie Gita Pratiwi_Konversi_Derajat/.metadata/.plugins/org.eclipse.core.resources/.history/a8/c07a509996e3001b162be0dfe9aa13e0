@@ -1,0 +1,10 @@
+package com.sekolahqa.tugas_konversi_derajat;
+
+public class Tugas_Konversi_Derajat {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

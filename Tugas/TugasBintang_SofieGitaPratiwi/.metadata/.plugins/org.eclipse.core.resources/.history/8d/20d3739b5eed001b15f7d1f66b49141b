@@ -1,0 +1,10 @@
+package com.sekolahqa.tugas_bintang;
+
+public class Tugas_Persegi_Berulang2 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

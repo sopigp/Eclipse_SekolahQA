@@ -1,0 +1,37 @@
+package Sekolah_QA.com;
+
+public class MainClass {
+
+	public static void main(String[] args) {
+		// Conversation of me and Ikan Cupang
+
+		ikan obj1 = new ikan();
+		obj1.introduce1();
+		obj1.animal_sound();
+		
+		ikan obj2 = new ikan();
+		obj2.introduce2();
+		
+		ikan_cupang obj3 = new ikan_cupang();
+		obj3.move();
+		
+		ikan obj4 = new ikan();
+		obj4.introduce3();
+		
+		ikan_cupang obj5 = new ikan_cupang();
+		obj5.live_in();
+		
+		ikan obj6 = new ikan();
+		obj6.introduce4();
+		
+		ikan_cupang obj7 = new ikan_cupang();
+		obj7.breed();
+		
+		ikan obj8 = new ikan();
+		obj8.introduce5();
+		
+		ikan_cupang obj9 = new ikan_cupang();
+		obj9.sleep();
+	
+	}
+}

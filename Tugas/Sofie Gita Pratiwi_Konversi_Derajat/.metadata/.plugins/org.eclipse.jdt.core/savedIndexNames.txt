@@ -1,0 +1,8 @@
+INDEX VERSION 1.131+C:\Users\asus\Sofie Gita Pratiwi_Konversi_Derajat\.metadata\.plugins\org.eclipse.jdt.core
+286434027.index
+83893780.index
+3142883024.index
+774804610.index
+4042106117.index
+509587472.index
+4280738789.index

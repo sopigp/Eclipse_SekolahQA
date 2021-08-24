@@ -1,0 +1,16 @@
+package Sekolah_QA.com;
+
+public class ikan extends Animal {
+	
+	public void introduce()
+	{
+		System.out.println("The fish says : Blub..blub..Blub");
+	}
+
+	@Override
+	public void animal_sound()
+	{
+		System.out.println("The fish says : Blub..blub..Blub");
+	}
+	
+}

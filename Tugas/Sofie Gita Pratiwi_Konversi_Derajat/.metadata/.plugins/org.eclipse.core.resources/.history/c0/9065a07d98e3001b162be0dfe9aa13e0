@@ -1,0 +1,32 @@
+package com.sekolahqa.tugas_konversi_derajat;
+
+import java.util.Scanner;
+
+public class Tugas_Konversi_Derajat {
+
+	public static void main(String[] args) {
+		// membuat variabel dan scanner
+		int nilai;
+		Scanner scan = new Scanner(System.in);
+		System.out.println("========Nilai Mahasiswa========\n");
+		// mengambil input
+		System.out.print("Inputkan nilai: ");
+		nilai = scan.nextInt();
+		// hitung gradenya
+		if (nilai <= 0) {
+			System.out.println("Beku");
+		} else if (nilai >= 1 && nilai <= 10) {
+			System.out.println("Dingin");
+		} else if (nilai >= 11 && nilai <= 20) {
+			System.out.println("Sejuk");
+		} else if (nilai >= 21 && nilai <= 25) {
+			System.out.println("Sedang");
+		} else if (nilai >= 26 && nilai <= 99) {
+			System.out.println("Panas");
+		} else if (nilai >= 100) {
+			System.out.println("Mendidih");
+		}
+
+	}
+
+}

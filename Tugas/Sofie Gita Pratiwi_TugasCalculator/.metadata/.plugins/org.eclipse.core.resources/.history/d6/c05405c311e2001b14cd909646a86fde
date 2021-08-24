@@ -1,0 +1,30 @@
+package com.sekolaqa.TugasCalculator;
+
+import java.util.Scanner;
+
+/**
+ * Menentukan bilangan ganjil/genap
+ * @author sopigp
+ *
+ */
+public class CalculatorGanjil_Genap {
+
+	public static void main(String[] args) {
+		Scanner input = new Scanner(System.in);
+		int bilangan;
+		System.out.println("\n");
+		System.out.println("PROGRAM MENENTUKAN BILANGAN GANJIL GENAP SEKOLAJH QA");
+		System.out.println("----------------------------------------");
+		System.out.print("Masukan Bilangan: ");
+		bilangan = input.nextInt();
+
+		// cek apakah bilangan yang di input
+		if (bilangan % 2 == 0) {
+			System.out.println("Angka " + bilangan + " adalah Bilangan Genap");
+		} else {
+			System.out.println("Angka " + bilangan + " adalah Bilangan Ganjil");
+		}
+
+	}
+
+}

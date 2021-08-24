@@ -1,0 +1,12 @@
+package Sekolah_QA.com;
+
+public class MainClass {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		ikan obj = new ikan();
+	       obj.animal_sound();
+	}
+
+}

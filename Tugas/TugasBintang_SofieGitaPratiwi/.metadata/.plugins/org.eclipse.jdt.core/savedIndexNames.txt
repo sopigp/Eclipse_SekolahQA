@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+C:\Users\asus\TugasBintang_SofieGitaPratiwi\.metadata\.plugins\org.eclipse.jdt.core
+4042106117.index
+1912219735.index

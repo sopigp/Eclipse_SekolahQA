@@ -1,0 +1,9 @@
+package Sekolah_QA.com;
+
+public class ikan extends Animal {
+
+	@Override
+	public void walk()
+	{
+	}
+}

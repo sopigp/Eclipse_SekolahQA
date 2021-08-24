@@ -1,0 +1,6 @@
+package Sekolah_QA.com;
+
+public abstract class Animal {
+
+	public abstract void walk();
+}

@@ -1,0 +1,19 @@
+package Sekolah_QA.com;
+
+public class MainClass {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		ikan obj = new ikan();
+		obj.introduce();
+		obj.animal_sound();
+		
+		ikan_cupang obj2 = new ikan_cupang();
+		obj2.move();
+		obj2.live_in();
+		obj2.breed();
+		obj2.sleep();
+	
+	}
+}

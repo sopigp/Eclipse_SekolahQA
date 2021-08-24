@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+C:\Users\asus\Tugas_Inheritance\.metadata\.plugins\org.eclipse.jdt.core
+4042106117.index
+97403469.index
